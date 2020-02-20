@@ -1,0 +1,3 @@
+[submodule "custom"]
+	path = custom
+	url = https://github.com/eeeeeric/oh-my-zsh-custom.git
